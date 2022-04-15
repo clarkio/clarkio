@@ -3,6 +3,7 @@
 ![clarkio's github stats](https://github-readme-stats.vercel.app/api?username=clarkio&show_icons=true&theme=tokyonight)
 
 [![Twitch](https://img.shields.io/twitch/status/clarkio?color=blueviolet)](https://www.twitch.tv/clarkio)
+[![Discord](https://img.shields.io/discord/421902136457035777)](https://discord.gg/xB95beJ)
 
 <!--
 **clarkio/clarkio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
